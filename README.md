@@ -4,7 +4,7 @@ Olá! Eu sou o **Rafael Góes**, estudante de Ciência da Computação 🚀 e ap
 
 ## 📊 Minhas Estatísticas
 ![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelgoesti&show_icons=true&theme=react&count_private=true)
-
+## 🌐 Tecnologias
 | <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"> | <img title="Flask" alt="Flask" width="40px" src="https://img.icons8.com/ios-filled/FFFFFF/flask.png"> | <img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"> | <img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> | <img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> | <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> | <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> | <img title="Linux Mint" alt="Linux Mint" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> | <img title="VS Code" alt="VS Code" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"> |
 |--|--|--|--|--|--|--|--|--|
 
