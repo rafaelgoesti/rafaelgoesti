@@ -2,7 +2,9 @@
 
 Olá! Eu sou o **Rafael Góes**, estudante de Ciência da Computação 🚀 e apaixonado por tecnologia. Estou sempre aprendendo novas linguagens e frameworks para melhorar minhas habilidades e me tornar um engenheiro de software de alto nível 💡.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelgoesti&theme=react&show_icons=true)
+## 📊 Minhas Estatísticas
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelgoesti&show_icons=true&theme=react&count_private=true)
+
 
 | <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"> | <img title="Flask" alt="Flask" width="40px" src="https://img.icons8.com/ios-filled/FFFFFF/flask.png"> | <img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"> | <img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> | <img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> | <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> | <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> |
 |--|--|--|--|--|--|--|
