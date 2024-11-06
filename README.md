@@ -2,85 +2,26 @@
 
 Olá! Eu sou o **Rafael Góes**, estudante de Ciência da Computação 🚀 e apaixonado por tecnologia. Estou sempre aprendendo novas linguagens e frameworks para melhorar minhas habilidades e me tornar um engenheiro de software de alto nível 💡.
 
-Atualmente, estou me aprofundando em **Python**, **Flutter**, **Node.js**, **MySQL** e em diversas tecnologias de back-end e front-end. Aqui, você encontrará meus projetos e contribuições para o mundo da programação.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelgoesti&theme=react&show_icons=true)
 
----
+## 🌐 Tecnologias
 
-## 📚 Sobre Mim
-
-- 🔭 Atualmente trabalhando em **desenvolvimento de aplicativos mobile e web** com Flutter e Node.js.
-- 🌱 Atualmente aprendendo **Machine Learning** e **Inteligência Artificial**.
-- 👯 Procurando colaborar em projetos de **análise de dados** e **diagnóstico por imagem**.
-- 🤔 Sempre em busca de **novos desafios** e **oportunidades de aprender**.
-- 📫 Você pode me encontrar no **LinkedIn** ou por **email**.
-
----
-
-## 💻 Tecnologias que Uso
-
-- **Linguagens de Programação:**
-  - Python 🐍
-  - PHP 🌐
-  - C# 💻
-  - C ⚙️
-  - SQL (MySQL) 💾
-
-- **Frameworks e Ferramentas:**
-  - Flask 🌐
-  - SQLAlchemy 🗄️
-  - Flask-WTF 📝
-  - Django 🏗️
-
-- **Ferramentas de Desenvolvimento:**
-  - Git & GitHub 🐙
-  - Docker 🐳
-  - Postman 🚀
-  - VS Code 🖥️
-  - Linux Mint 🐧
-
----
-
-## 🌟 Projetos em Destaque
-
-### [KADMED](https://github.com/rafaelgoesti/KADMED) 📊
-*Aplicativo de Controle de Gastos Pessoais*
-- Desenvolvido com **Flutter** no front-end e **Node.js** no back-end.
-- Funcionalidades: Controle de gastos 💸, relatórios mensais 📅 e autenticação de usuários 🔑.
-
-### [Sistema de Biblioteca Online](https://github.com/rafaelgoesti/Sistema-Biblioteca) 📚
-*Sistema de Gerenciamento de Biblioteca*
-- Aplicação web para controle de livros, usuários e empréstimos.
-- Construído com **Flask** e **MySQL**.
-
-### [CRUD Flask com MySQL](https://github.com/rafaelgoesti/CRUD-Flask-MySQL) 🔄
-*Exemplo de CRUD com Flask e MySQL*
-- Desenvolvimento de uma API RESTful com **Flask** e **MySQL**.
-- Inclui funcionalidades de CRUD com autenticação via **JWT**.
-
----
-
-## 🎓 Cursos e Conteúdos Criados
-
-### [Curso de Programação Orientada a Objetos (POO) com Python](https://github.com/rafaelgoesti/POO-Python) 🐍
-*Aprenda POO com Python de forma prática!*
-- Conceitos de **classes**, **objetos**, **herança** e **polimorfismo**.
-- Inclui exemplos práticos de código.
-
-### [Curso de Flask-WTF (Formulários)](https://github.com/rafaelgoesti/Flask-WTF) 📝
-*Curso completo sobre como trabalhar com formulários no Flask.*
-- Aborda desde o básico até recursos avançados para criar formulários robustos em **Flask**.
-
----
+<div style="display: flex; gap: 15px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="50" height="50">
+</div>
 
 ## 📫 Contato
 
-- **Email:** rafaelgoesti2021@gmail.com ✉️
-- **LinkedIn:** [rafaelgoes](https://www.linkedin.com/in/rafaelgoes) 🔗
-- **GitHub:** [rafaelgoesti](https://github.com/rafaelgoesti) 🐙
-- **Website:** [rafaelgoes.dev](https://www.rafaelgoes.dev) 🌐
-
----
-
-## 📜 Licença
-
-Este projeto está licenciado sob a **Licença MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-g%C3%B3es-duarte-10709332a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafaelgoesti/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1D3u4yYWeT/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seuperfil)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/seuperfil)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuperfil)
