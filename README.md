@@ -2,9 +2,25 @@
 # <img width="1408" height="736" alt="1" src="https://github.com/user-attachments/assets/0c546053-37d9-4955-a9b0-20d2ac857afc" />
 
 
-🎓 **Estudante de Ciência da Computação** | 💻 **Futuro Engenheiro de Software**
+public class RafaelGoes {
 
-Sou o **Rafael Góes**, um entusiasta de tecnologia em constante evolução. Busco excelência no desenvolvimento de software e estou sempre mergulhado em novos desafios. Minha missão é construir soluções que impactem positivamente a vida das pessoas. Tenho paixão por sistemas eficientes, código limpo e aprendizado contínuo.
+    public static void main(String[] args) {
+
+        String perfil = """
+        🎓 Estudante de Ciência da Computação | 💻 Futuro Engenheiro de Software
+
+        Sou Rafael Góes, um entusiasta de tecnologia em constante evolução.
+        Busco excelência no desenvolvimento de software e estou sempre
+        mergulhado em novos desafios.
+
+        Minha missão é construir soluções que impactem positivamente
+        a vida das pessoas. Tenho paixão por sistemas eficientes,
+        código limpo e aprendizado contínuo.
+        """;
+
+        System.out.println(perfil);
+    }
+}
 
 ---
 
