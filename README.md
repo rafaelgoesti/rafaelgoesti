@@ -8,11 +8,7 @@ Sou o **Rafael Góes**, um entusiasta de tecnologia em constante evolução. Bus
 
 ---
 
-## 🚀 Stack & Tecnologias
-
-| [![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python&logoColor=FFD43B)](https://www.python.org) | [![Flask](https://img.shields.io/badge/-Flask-333?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com) | [![Django](https://img.shields.io/badge/-Django-333?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com) | [![PHP](https://img.shields.io/badge/-PHP-333?style=flat-square&logo=php&logoColor=777BB4)](https://www.php.net) |
-|--|--|--|--|
-| [![C#](https://img.shields.io/badge/-C%23-333?style=flat-square&logo=csharp&logoColor=239120)](https://docs.microsoft.com/pt-br/dotnet/csharp/) | [![C](https://img.shields.io/badge/-C-333?style=flat-square&logo=c&logoColor=00599C)](https://en.wikipedia.org/wiki/C_(programming_language)) | [![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat-square&logo=mysql&logoColor=4479A1)](https://www.mysql.com) | [![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux&logoColor=FCC624)](https://www.linux.org) |
+## <img width="1408" height="736" alt="2" src="https://github.com/user-attachments/assets/8b465fe6-6f15-4246-b8c9-c76f0be75991" />
 
 ---
 
