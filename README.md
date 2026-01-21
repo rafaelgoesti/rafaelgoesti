@@ -1,5 +1,6 @@
 
-# <img width="1408" height="768" alt="Gemini_Generated_Image_jz97a5jz97a5jz97" src="https://github.com/user-attachments/assets/784bc870-d113-417b-b485-38aed50a1619" />
+# <img width="1408" height="736" alt="1" src="https://github.com/user-attachments/assets/0c546053-37d9-4955-a9b0-20d2ac857afc" />
+
 
 🎓 **Estudante de Ciência da Computação** | 💻 **Futuro Engenheiro de Software**
 
