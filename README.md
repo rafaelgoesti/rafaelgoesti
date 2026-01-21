@@ -1,4 +1,5 @@
-# Rafael Góes 👨‍💻
+
+# <img width="1408" height="768" alt="Gemini_Generated_Image_jz97a5jz97a5jz97" src="https://github.com/user-attachments/assets/784bc870-d113-417b-b485-38aed50a1619" />
 
 🎓 **Estudante de Ciência da Computação** | 💻 **Futuro Engenheiro de Software**
 
